@@ -10,6 +10,6 @@
 - میتوانید با DOM مجازی ارتباط بگیرید و عملکردهای فوق العاده خلق کنید
 - بیشتر قسمت ها را در درون مرورگر اجرا کنید تا نیاز به درگیری سرور نباشد.
 
-  !(https://raw.githubusercontent.com/gizmekarasu/blogfa/main/654cba9775362.jpg)
+  ![no description](https://raw.githubusercontent.com/gizmekarasu/blogfa/main/654cba9775362.jpg)
  
 
